@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500721611 source:d:\documentos\ciro gris\estudios\programación\proyectos\dolares_pesos\main.cpp
+	<iostream>
+
+1500845549 source:d:\documentos\ciro gris\estudios\programación\proyectos\02 dolares_pesos\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

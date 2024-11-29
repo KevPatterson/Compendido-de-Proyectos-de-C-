@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500750240 source:d:\documentos\ciro gris\estudios\programación\proyectos\ecuaciones de segundo grado\main.cpp
+	<iostream>
+	<cmath>
+

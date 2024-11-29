@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500947088 source:d:\documentos\ciro gris\estudios\programación\proyectos\dos rectas se corta\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+	<cstdlib>
+

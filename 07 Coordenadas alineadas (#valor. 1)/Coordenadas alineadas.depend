@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500904072 source:d:\documentos\ciro gris\estudios\programación\proyectos\coordenadas alineadas\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
